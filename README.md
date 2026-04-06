@@ -1,15 +1,82 @@
-# OLA-Ride-Analysis-Dashboard-Power-BI-Project
-This project presents an interactive Power BI dashboard built to analyze OLA ride data and uncover meaningful business insights. The dashboard helps understand ride trends, customer behavior, revenue patterns, and driver performance using visually rich and easy-to-understand reports.
 
-🔧 Tools & Technologies
-Power BI
-Microsoft Excel / CSV
-DAX
-Data Cleaning & Transformation (Power Query)
+# 🚕 Ola Ride Analytics Dashboard | Power BI
 
-📊 Key Features
-Total rides, total revenue, and average ride value
-Ride trends by date, time, and location
-Revenue analysis by ride type
-Driver performance insights
-Interactive filters and slicers for dynamic analysis
+An interactive **Ola Ride Analytics Dashboard** built in **Power BI** to analyze bookings, revenue, vehicle performance, cancellations, trip distance, payment methods, and customer & driver ratings.
+
+This dashboard transforms ride-booking data into **business intelligence insights** for monitoring ride success, vehicle usage, revenue contribution, cancellation reasons, and service quality.
+
+---
+
+## 📊 Dashboard Highlights
+
+* 📦 **Total Bookings:** 46,425
+* 💰 **Total Booking Value:** 16M
+* ✅ **Success Bookings:** 22,618
+* ❌ **Cancelled Bookings:** 10,267
+* 🚗 **Vehicle-wise Revenue**
+* ⭐ **Customer & Driver Ratings**
+
+---
+
+## 🚀 Dashboard Pages
+
+### 📈 Overall Analysis
+
+* Total bookings and booking value
+* Booking success vs cancellation breakdown
+* Daily booking volume trends
+* Date-wise KPI filtering
+
+### 🚘 Vehicle Type Analysis
+
+* Vehicle-wise booking value
+* Success booking value by vehicle
+* Average trip distance
+* Total distance travelled
+* Performance comparison across vehicle types
+
+### 💰 Revenue Analysis
+
+* Revenue by payment method
+* Ride distance by day
+* Top 5 customers by booking value
+* Daily revenue trend
+
+### ❌ Cancellation Analysis
+
+* Customer cancellation reasons
+* Driver cancellation reasons
+* Success vs cancelled booking KPIs
+* Service issue insights
+
+### ⭐ Ratings Analysis
+
+* Driver ratings by vehicle type
+* Customer ratings by vehicle type
+* Service quality comparison
+* Vehicle experience insights
+
+---
+
+## 🛠️ Tools & Skills Used
+
+* **Power BI**
+* Power Query
+* DAX Measures
+* Data Cleaning
+* Data Modeling
+* KPI Reporting
+* Interactive Filters
+* Dashboard UI Design
+
+---
+
+## 💡 Key Business Insights
+
+* Successful bookings contribute the majority of total rides
+* Prime Sedan and Mini generate strong booking value
+* Cash and UPI dominate payment revenue
+* Customer and driver ratings remain close to 4.0+
+* Cancellation reasons highlight service improvement areas
+
+
